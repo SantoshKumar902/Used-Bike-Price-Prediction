@@ -8,7 +8,7 @@ This project focuses on **predicting the resale price of used bikes** using data
 
 Used-Bike-Price-Prediction/ <br>
 ├── # Dataset used (bikes.csv) <br>
-├── notebooks/ # Main notebook <br>
+├──  Colab notebook/ # Main notebook <br>
 │ └── Analyzed Dataset (Solution).ipynb <br>
 ├── images/ # Visualizations and plots <br>
 │ ├── heatmap.png <br>
@@ -65,15 +65,15 @@ The dataset includes:
 
 ### 🔹 Brand-wise Split
 
-![Brand Split](images/brand_split.png)
+![Brand Split](<a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Brand%20Wise%20Split%20of%20Bike.png"></a>)
 
-### 🔹 CC Distribution
+### 🔹 Top 15 most Frequent Bike CC Categories 
 
-![CC Distribution](images/cc_distribution.png)
+![CC Categories](<a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Top%2015%20Most%20Frequent%20Bike%20CC%20Categories.png"></a>)
 
-### 🔹 Correlation Heatmap
+### 🔹 Actual vs Predicted Price
 
-![Heatmap](images/heatmap.png)
+![Price](<a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Actual%20vs%20Predicted%20Price.png"></a>)
 
 ---
 
