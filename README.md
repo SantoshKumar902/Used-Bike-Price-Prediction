@@ -65,15 +65,15 @@ The dataset includes:
 
 ### 🔹 Brand-wise Split
 
-- <a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Brand%20Wise%20Split%20of%20Bike.png">Brand Split</a>
+- <a href="https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Brand%20Wise%20Split%20of%20Bike.png">Brand Split</a>
 
 ### 🔹 Top 15 most Frequent Bike CC Categories 
 
-- <a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Top%2015%20Most%20Frequent%20Bike%20CC%20Categories.png">CC Categories</a>
+- <a href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Top%2015%20Most%20Frequent%20Bike%20CC%20Categories.png">CC Categories</a>
 
 ### 🔹 Actual vs Predicted Price
 
-- <a = href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Actual%20vs%20Predicted%20Price.png">Price</a>
+- <a href = "https://github.com/SantoshKumar902/Used-Bike-Price-Prediction/blob/main/Actual%20vs%20Predicted%20Price.png">Price</a>
 
 ---
 
