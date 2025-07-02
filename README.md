@@ -61,7 +61,7 @@ The dataset includes:
 
 ---
 
-## 📈 Exploratory Data Analysis
+## 📈 Some Visualizing Samples
 
 ### 🔹 Brand-wise Split
 
