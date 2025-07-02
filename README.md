@@ -6,12 +6,12 @@ This project focuses on **predicting the resale price of used bikes** using data
 
 ## 📁 Project Structure
 
-Used-Bike-Price-Prediction/
-├── # Dataset used (bikes.csv)
-├── notebooks/ # Main notebook
-│ └── Analyzed Dataset (Solution).ipynb
-├── images/ # Visualizations and plots
-│ ├── heatmap.png
+Used-Bike-Price-Prediction/ <br>
+├── # Dataset used (bikes.csv) br
+├── notebooks/ # Main notebook 
+│ └── Analyzed Dataset (Solution).ipynb 
+├── images/ # Visualizations and plots 
+│ ├── heatmap.png 
 │ ├── cc_distribution.png
 │ └── price_vs_year.png
 └── README.md # Project overview
